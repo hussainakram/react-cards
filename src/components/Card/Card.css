@@ -1,0 +1,9 @@
+.card {
+  background-color: #f5f5f5;
+  font-family: monospace;
+  box-shadow: 0 0 20px 0 rgba(123, 122, 122, 0.5)
+}
+.card-title {
+  background-color: #e0e0e0;
+  font-family: initial;
+}
